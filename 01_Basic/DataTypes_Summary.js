@@ -23,3 +23,15 @@
 
     const myFunction = function(){}; //Function
 
+//*************************************** */
+                //Memory
+
+// 2 Types of memory : Stack(Used in Primitive datatypes) and Heap(Used in Non Primitive Datatypes)
+
+let Ram = 22; // Stored in Stack
+
+let Game = {
+    // Stored In Heap
+    Points : 23,
+    UserName : 'Himan',
+}
